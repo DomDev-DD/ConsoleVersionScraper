@@ -1,4 +1,7 @@
 # ConsoleVersionScraper
+
+Please note this sofware is in Alpha
+
 A web scraper for extracting versions of then most popular lighting consoles
 
 
