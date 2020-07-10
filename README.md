@@ -1,4 +1,4 @@
-# ConsoleVersionScraper
+# Console Version Scraper
 
 Please note this sofware is in Alpha
 
