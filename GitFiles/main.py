@@ -18,10 +18,10 @@ versionList = []
 #Web page dic structure 'Label name' : [<webpage>, <key phrase to search for>, <version number range>]
 
 webPageList = {
-    'ETC' : ["https://www.etcconnect.com/Products/Consoles/Eos-Family/?LangType=1033", "Eos Family ..... for PC", [11, -6]],
     'Grand Ma 2' : ["https://www.malighting.com/downloads/products/grandma2/", "Version ....... ", [7, -1]],
     'Avolites' : ["https://www.avolites.com/software/downloads/titan-pc-suite", "Titan PC Suite v....", [16, 20]],
     'Grand Ma 3' : ["https://www.malighting.com/downloads/products/grandma3/", "Version ....... ", [7, -1]],
+    'ETC' : ["https://www.etcconnect.com/Products/Consoles/Eos-Family/?LangType=1033", "Eos Family ..... for PC", [11, -6]],
 }
 
 def internetTest():
