@@ -5,7 +5,7 @@ Please note this sofware is in Alpha
 A web scraper for extracting versions of the most popular lighting consoles
 
 
-This is a basic web scraper that searchs for lighting console sofware versions from a handful of the major players: ETC, Grand Ma 2, Avolites ,and Grand Ma 3.
+This is a basic web scraper that searchs for lighting console sofware versions from a handful of the major players: Grand Ma 2, Avolites ,and Grand Ma 3.
 
 Within the repo there is the source code, html file, and a precompiled .exe file.
 
